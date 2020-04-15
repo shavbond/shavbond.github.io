@@ -26,8 +26,9 @@ class About extends Component {
             <h2></h2>
 
             <p>I have experience working with HTML, SASS/CSS, Javascript/React.JS(which
-            this website was created with), php, mySQL, Laravel/Composer. I am also familiar with Git tools, 
-            and package managers such as NPM and Yarn. I have experience building responsive websites using modern design practices.
+            this website was created with), along with working in databases and backend languages(composer, php/Laravel, mySQL). I am also familiar with Git tools, 
+            and package managers such as NPM and Yarn. I have experience building desktop and mobile Web Apps and static
+            websites, while following best practices.
             </p>
             <div className="row">
                <div className="columns contact-details">

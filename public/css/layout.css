@@ -238,11 +238,13 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: rgb(247,243,243);
+   background: rgb(87, 87, 87);
    background: linear-gradient(333deg, rgba(247,243,243,1) 11%, rgba(222,224,226,1) 38%, rgba(177,177,177,1) 71%);
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+   font-family: sans-serif;
+   color: black;
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
@@ -267,7 +269,7 @@ ul#nav li.current a { color: #F06000; }
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 1px solid #E8E8E8;
+   border-bottom: 1px solid rgb(26, 24, 24);
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
