@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name":"Shavar Anson",
+    "occupation":"",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"Interested in Freelance work for your small business / company? Send an E-mail to Shvranson@gmail.com, and I will get back to you as soon as possible. Thank you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/shavbond",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Pennsylvania State University",
+        "degree":"Business Administration/Information Science Technology",
+        "graduated":"",
+        "description":"Studied Business Administration as a major, and minored in Information Science Technologies."
+      },
+      {
+        "school":"Creative & Performing Arts High School of Philadelphia",
+        "degree":"High School Diploma",
+        "graduated":"",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Department of Homeland Security",
+        "title":"Administrative Assistant Officer",
+        "years":"May 2018-Present",
+        "description":"I supported our screening workforce, primarily in administrative duties. I was chosen to participate in the Lean Six Sigma Business training, in order to create a new streamline process for our Logistics team. In the end, we managed to reduce the waste of our consumable items by 18%. I worked directly with our Senior Leadership team, and Headquarters on a weekly basis in order to achive our end result."
+      },
+      {
+        "company":"Enterprise Leasing Company",
+        "title":"Certification Assistant/Marketing",
+        "years":"October 2015-2018",
+        "description":"At Enterprise Car Sales, my primary duties involed keeping up with our inventory. I ran a team of drivers, that would get cars to detail shops, dealerships, and moved around to different sales locations to ensure that cars were ready for sale. I updated vehicle info on our website via VIC, and worked with our marketing team with special promotions, via a CRM named Salesforce."
+      }
+    ],
+    "skills":[
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Fullstack Restaraunt",
+        "category":"A Fullstack restaraunt application, great for small businesses!",
+        "image":"billy-database.png",
+        "url":"https://github.com/shavbond/fullstack-restaraunt"
+      },
+      {
+        "title":"Motivation",
+        "category":"A very simple Nano-React app, designed to offer random bits of advice fetched from an Axios API",
+        "image":"motivation.png",
+        "url":"https://github.com/shavbond/motivation_app"
+      },
+      {
+        "title":"HTML E-Mail",
+        "category":"Sample campaign e-mail I put together. Great for advertising/promotions!",
+        "image":"email1-min.png",
+        "url":"https://github.com/shavbond/html_email"
+      },
+      {
+        "title":"React Training",
+        "category":"A simple 3-in-1 application, that reinforces advanced ReactJS concepts, such as Redux, Hooks and more. Great for beginning developers to mess with!",
+        "image":"react-training.png",
+        "url":"https://github.com/shavbond/React_training"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
