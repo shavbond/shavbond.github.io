@@ -35,8 +35,8 @@ class Header extends Component {
          <div className="banner-text">
             <h1 className="responsive-headline">I'm Shavar Anson.</h1>
             <h3>I am a Philadelphia based <span> Front End Web Developer</span>. I created this website
-            to showcase a few sample projects, and have also included contact information,
-            and more information regarding my background.</h3>
+            to showcase a few sample projects, and I have also included my contact information,
+            along with more information regarding my background.</h3>
             <hr />
             <ul className="social">
                {networks}
