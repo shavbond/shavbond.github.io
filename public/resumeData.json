@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name":"Shavar Anson",
+    "occupation":"",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"Interested in Freelance work for your small business / company? Send an E-mail to Shvranson@gmail.com, and I will get back to you as soon as possible. Thank you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload":"https://docs.google.com/document/d/1wx38ndocdSGQ7389yEcY4cU879ZMhD_EDG69I62UjKY/edit?usp=sharing",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/shavbond",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Pennsylvania State University",
+        "degree":"Business Administration/Information Science Technology",
+        "graduated":"",
+        "description":"While at Penn State, I studied Business Administration as a major, and minored in Information Science Technologies. These majors combine a mix of learning best business practices for the real world, along with intermediate programming syntax and concepts."
+      },
+      {
+        "school":"Creative & Performing Arts High School of Philadelphia",
+        "degree":"High School Diploma",
+        "graduated":"",
+        "description":"During my time, I majored in vocal music, and minored in visual arts. This allowed me to learn graphic design, and work with many different programs within Adobe Suite, such as Photoshop and Illustration."
+      }
+    ],
+    "work":[
+      {
+        "company":"Department of Homeland Security",
+        "title":"Administrative Assistant Officer",
+        "years":"May 2018 - Present",
+        "description":"I supported our screening workforce, primarily in administrative duties. I was chosen to participate in the Lean Six Sigma Business training, in order to create a new streamline process for our Logistics team. In the end, we managed to reduce the waste of our consumable items by 18%. I worked directly with our Senior Leadership team, and Headquarters on a weekly basis in order to achieve our end result."
+      },
+      {
+        "company":"Enterprise Leasing Company",
+        "title":"Certification Assistant/Marketing",
+        "years":"October 2015 - May 2018",
+        "description":"At Enterprise Car Sales, my primary duties involed keeping up with our inventory. I ran a team of drivers, that would get cars to detail shops, dealerships, and moved around to different sales locations to ensure that cars were ready for sale. I updated vehicle info on our website via VIC, and worked with our marketing team with special promotions, via a CRM named Salesforce."
+      },
+      {
+        "company":"Liberty Temple Full Baptist Church",
+        "title":"Social Media editor/Web Developer",
+        "years":"May 2014 - August 2018",
+        "description":"During my time at Penn State, I volunteered my services to my local church. I assisted in designing a simple static webpage for our location, to help the location gain exposure due to them being relatively new. I also served as the Audio/Video tech during Sunday services, and was responsible for recording each service across different medias simultaneously. I was also responsible for the Church's Facebook page and served as a Content editor."
+      }
+    ],
+    "skills":[
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Fullstack Restaraunt",
+        "category":"A Fullstack restaraunt application, great for small businesses!",
+        "image":"billy-database.png",
+        "url":"https://github.com/shavbond/fullstack-restaraunt"
+      },
+      {
+        "title":"Motivation",
+        "category":"A very simple Nano-React app, designed to offer random bits of advice fetched from an Axios API",
+        "image":"motivation.png",
+        "url":"https://ecstatic-kowalevski-32570e.netlify.app/"
+      },
+      {
+        "title":"HTML E-Mail",
+        "category":"Sample campaign e-mail I put together. Great for advertising/promotions!",
+        "image":"email1-min.png",
+        "url":"https://shavhero.imfast.io/hero.html"
+      },
+      {
+        "title": "Weather App",
+        "category": "This is a weather application I put together. It incorporates React Hooks, as well as the OpenWeatherMapAPI. Optimized for mobile!",
+        "image": "preview.png",
+        "url": "https://agitated-chandrasekhar-b84da7.netlify.app/"
+      },
+        {
+          "title": "Landing Page",
+          "category": "A nice landing page, great for a digital agency/marketing company, to demo a service.",
+          "image": "landing.png",
+          "url": "https://priceless-wilson-7df8c1.netlify.app"
+        }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
