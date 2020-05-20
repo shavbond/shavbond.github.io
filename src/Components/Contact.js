@@ -36,6 +36,9 @@ class Contact extends Component {
 
             </div>
 
+            <a href="https://sanson-seo.com" className="button">
+                        <i></i>S. Anson Developments</a>
+
          </div>
 
          <div className="row">

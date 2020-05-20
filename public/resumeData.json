@@ -5,7 +5,7 @@
     "description":"",
     "image":"profilepic.jpg",
     "bio":"",
-    "contactmessage":"Interested in Freelance work for your small business / company? Send an E-mail to Shvranson@gmail.com, and I will get back to you as soon as possible. Thank you.",
+    "contactmessage":"Interested in Freelance work for your small business / company? Please visit my business site.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
     "address":{
@@ -23,13 +23,13 @@
         "className":"fa fa-github"
       },
       {
-        "name":"",
-        "url":"",
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/shavar-anson-941ab279/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"",
+        "url":"https://instagram.com/sa_developments_philly",
         "className":"fa fa-instagram"
       }
     ]
