@@ -52,6 +52,12 @@
     ],
     "work":[
       {
+        "company":"S. Anson Developments",
+        "title":"Web Developer/Designer",
+        "years":"2019-Present",
+        "description":"After doing a few websites for friends and family, in late 2019 I decided to officially launch a personal business site. My goal is to help small businesses locally, become more visible via social media, and proper marketing."
+      },
+      {
         "company":"Department of Homeland Security",
         "title":"Administrative Assistant Officer",
         "years":"May 2018 - Present",
@@ -105,6 +111,12 @@
           "category": "A nice landing page, great for a digital agency/marketing company, to demo a service.",
           "image": "landing.png",
           "url": "https://priceless-wilson-7df8c1.netlify.app"
+        },
+        {
+          "title": "E39 tribute",
+          "category": "A tribute page, made for one of my favorite vehicles, the BMW E39 M5.",
+          "image": "e39prev.png",
+          "url": "https://vibrant-beaver-c5da4b.netlify.app/"
         }
       
     ]
