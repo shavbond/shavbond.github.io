@@ -1,8 +1,6 @@
 /* ==================================================================
 
-*   Ceevee Media Queries
-*   url: styleshout.com
-*   03-18-2014
+*  
 
 /* ================================================================== */
 
@@ -368,7 +366,11 @@
 
    /* social links */
    footer .social-links { font-size: 20px; }
-   footer .social-links li { margin-left: 14px; }   
+   footer .social-links li { margin-left: 14px; }  
+   
+   #contact.button {
+      margin-left: 0;
+   }
 
 }
 
