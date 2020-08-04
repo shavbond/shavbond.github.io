@@ -83,16 +83,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Fullstack Restaraunt",
-        "category":"A Fullstack restaraunt application, great for small businesses!",
-        "image":"billy-database.png",
-        "url":"https://github.com/shavbond/fullstack-restaraunt"
+        "title":"Hairtoyou Extensions",
+        "category":"A very small shopify site I put together for a client. She wanted to be able to book clients outside of social media.",
+        "image":"hairtoyou.jpg",
+        "url":"https://hairtoyouextensions.com"
       },
       {
-        "title":"Motivation",
-        "category":"A very simple Nano-React app, designed to offer random bits of advice fetched from an Axios API",
-        "image":"motivation.png",
-        "url":"https://ecstatic-kowalevski-32570e.netlify.app/"
+        "title":"T. Shanel Beauty",
+        "category":"Shopify powered site I put together for a client. Her main concern was the site being mobile friendly.",
+        "image":"tshanel.jpg",
+        "url":"https://tshanelbeauty.com"
       },
       {
         "title":"HTML E-Mail",
