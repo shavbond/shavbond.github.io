@@ -101,10 +101,10 @@
         "url":"https://shavhero.imfast.io/hero.html"
       },
       {
-        "title": "Weather App",
-        "category": "This is a weather application I put together. It incorporates React Hooks, as well as the OpenWeatherMapAPI. Optimized for mobile!",
-        "image": "preview.png",
-        "url": "https://agitated-chandrasekhar-b84da7.netlify.app/"
+        "title": "COVID-tracker",
+        "category": "A responsive React application, that fetches data from an API to generate COVID statistics, selectable by country",
+        "image": "image.png",
+        "url": "https://gallant-brahmagupta-ea2d94.netlify.app/"
       },
         {
           "title": "Landing Page",
