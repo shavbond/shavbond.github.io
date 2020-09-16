@@ -84,7 +84,7 @@
     "projects": [
       {
         "title":"Hairtoyou Extensions",
-        "category":"A very small shopify site I put together for a client. She wanted to be able to book clients outside of social media.",
+        "category":"A very small shopify site I put together for a client.",
         "image":"hairtoyou.jpg",
         "url":"https://hairtoyouextensions.com"
       },
@@ -113,10 +113,16 @@
           "url": "https://priceless-wilson-7df8c1.netlify.app"
         },
         {
-          "title": "E39 tribute",
-          "category": "A tribute page, made for one of my favorite vehicles, the BMW E39 M5.",
-          "image": "e39prev.png",
-          "url": "https://vibrant-beaver-c5da4b.netlify.app/"
+          "title": "Rosa Restaraunt",
+          "category": "Simple, responsive & mobile-first mock restaraunt site created with plan HTML, CSS & Javascript",
+          "image": "the-rosa.png",
+          "url": "https://condescending-allen-afb927.netlify.app/"
+        },
+        {
+          "title": "Arcus Biosciences",
+          "category": "A React website built for a large pharmaceutical, with help from the XDS team.",
+          "image": "arcus-bio.png",
+          "url": "https://condescending-allen-afb927.netlify.app/"
         }
       
     ]
