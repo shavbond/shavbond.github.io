@@ -500,7 +500,7 @@ ul#nav li.current a { color: #F06000; }
    margin-top: -15px;
 }
 .portfolio-item .item-wrap img {
-   vertical-align: top;
+   
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
@@ -809,7 +809,10 @@ call-to-action .button {
 }
 
 #contact .button {
-  
+
+   display: flex;
+   justify-content: center;
+   max-width: 29%;
    background-color: #0F0F0F;
 }
 
